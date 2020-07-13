@@ -7,6 +7,11 @@ import psutil
 import win32process
 import win32gui
 
+__version__ = "1.0"
+__author__ = "FssAy"
+__company__ = "Vulco"
+__license__ = "GPL3"
+
 wd = os.getcwd()
 
 
